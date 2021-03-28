@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I study Mechanical Engineering with a Minor in Computer Science at the College of Engineering, Pune.
 
 ### More Information
 
