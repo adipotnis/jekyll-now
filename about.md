@@ -8,8 +8,7 @@ I study Mechanical Engineering with a Minor in Computer Science at the College o
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[adityapotnis@gmail.com](mailto:adityapotnis@gmail.com)
